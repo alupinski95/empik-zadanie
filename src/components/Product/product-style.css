@@ -1,0 +1,28 @@
+.paper {
+    padding: 0;
+    margin: auto;
+    width: 100%;
+}
+
+.prize-contener {
+    padding-right: 1%;
+}
+
+.image-container {
+    width: 100%;
+    height: auto;
+}
+
+.image-container svg {
+    margin: auto;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    height: auto;
+}
+
+.main-container-style {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+}
